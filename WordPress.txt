@@ -1,0 +1,40 @@
+ Acessando WordPress com uma conta Registrada em uma Hospedagem:
+ 
+ -Exemplo de empresa de Hospedagem é a HostGator;
+ Passo a Passo:
+ -> Escolher um plano para acesso(boa opção de 1 ano);
+ -> Depois de escolher o plano proxima pagima ja vai mostrar a opção de registrar um dominio(www.LucasRosa.com);
+ -> Logo após a compra a HostGator vai emitir um email dando um Usuário e uma senha para acessar o *cPainal*(a aprovação pode demorar um pouco);
+ -> Para acessar o endereço e ver se está tudo certo é só digitar na barra de endereço: ex.>www.LucasRosa.com/cpainel;
+ -> Só fazer o login;
+ -> Depois tem duas maneira de instalar o wordpress, maneira escolhida for pelo softaculos;
+ -> vai mostra alguma opções é só escolher o wordpress;
+ -> escolher o Protocolo de segurança, de acordo com a hospedagem e o Dominio(www.LucasRosa.com) onde vai ser instalado o wordpress;
+ -> Pode também ser instalado em outro diretório, senão vai ficar no dominio principal.ex.:(www.LucasRosa.com/subpasta);
+ -> logo abaixo adicionar o Titulo e uma descrição para o site;
+ -> adicionar um usuario administrador. (user e password) e email associado a parte de administrador;
+ -> linguagem: portuges BR;
+ -> vem algum pluguim preselecionados podem desmar se quiser, assim como o tema pode deixar padrão;
+ -> Para finalizar é só subir a pagina e clicar em instal;
+ -> obsevação: a url com final wp-admin ou wp-"alguma coisa", vai ser a url correspondente ao administrador.
+ 
+ Post e Pagina:
+ 
+ Plugins e Usuários:
+ Boas opções de Plugins para baixar após instalar o wordpress: Jatpack(mostra as estatiticas do site, asseços e etc..);
+ 
+ Configurações:
+ Geral
+ - alterar a url do site ;
+ - etc;
+ 
+ leitura
+ - Onde definimos a pagina inicial;
+ 
+ links permanentes 
+ - Onde posso mudar a url das paginas ou imagens selecionadas;
+ 
+ Pluguin Elementor
+ 
+ 
+ 
